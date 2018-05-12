@@ -1,0 +1,43 @@
+輸入:
+X0	BOOL			False	False	不公開	
+X1	BOOL			False	False	不公開	
+X2	BOOL			False	False	不公開	
+X3	BOOL			False	False	不公開	
+X4	BOOL			False	False	不公開	
+X5	BOOL			False	False	不公開	
+X6	BOOL			False	False	不公開	
+X7	BOOL			False	False	不公開	
+X8	BOOL			False	False	不公開	
+X9	BOOL			False	False	不公開	
+X10	BOOL			False	False	不公開	
+X11	BOOL			False	False	不公開	
+X12	BOOL			False	False	不公開	
+X13	BOOL			False	False	不公開	
+X14	BOOL			False	False	不公開	
+X15	BOOL			False	False	不公開	
+X16	BOOL			False	False	不公開	
+X17	BOOL			False	False	不公開	
+X18	BOOL			False	False	不公開	
+X19	BOOL			False	False	不公開	
+X20	BOOL			False	False	不公開	
+X21	BOOL			False	False	不公開	
+X22	BOOL			False	False	不公開	
+X23	BOOL			False	False	不公開	
+
+輸出(OC-4633):
+Y0	BOOL			False	False	不公開	
+Y1	BOOL			False	False	不公開	
+Y2	BOOL			False	False	不公開	
+Y3	BOOL			False	False	不公開	
+Y4	BOOL			False	False	不公開	
+Y5	BOOL			False	False	不公開	
+Y6	BOOL			False	False	不公開	
+Y7	BOOL			False	False	不公開	
+Y10	BOOL			False	False	不公開	
+Y11	BOOL			False	False	不公開	
+Y12	BOOL			False	False	不公開	
+Y13	BOOL			False	False	不公開	
+Y14	BOOL			False	False	不公開	
+Y15	BOOL			False	False	不公開	
+Y16	BOOL			False	False	不公開	
+Y17	BOOL			False	False	不公開	
